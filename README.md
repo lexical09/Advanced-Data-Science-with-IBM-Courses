@@ -1,5 +1,5 @@
 # Advanced Data Science with IBM Specialization
-[IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm) is a certified program on Couresa.org that consists of 4 courses:
+[IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm) is a certified program on Coursera.org that consists of 4 courses:
 1. Fundamentals of Scalable Data Science
 2. Advanced Machine Learning and Signal Processing
 3. Applied AI with DeepLearning
